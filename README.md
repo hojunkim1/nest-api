@@ -1,1 +1,1 @@
-# Movie app with NestJS
+# Movie api with NestJS
